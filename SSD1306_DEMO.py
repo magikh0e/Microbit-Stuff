@@ -1,4 +1,3 @@
-# Micro:Bit SSD1306 Demo
 #   I2C 128x64 OLED Display Module
 # Adapted from code by fizban99 
 #   https://github.com/fizban99/microbit_ssd1306
